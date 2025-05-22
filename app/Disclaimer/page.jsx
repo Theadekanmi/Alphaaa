@@ -1,6 +1,6 @@
 'use client'; 
 import React from "react";
-import Disclaim from "@/Components/disclaim";
+
 import { useState } from 'react';
 
 const Disclaimer = () => {
@@ -156,7 +156,7 @@ const Disclaimer = () => {
 
         
         
-          {/* <Disclaim/> */}
+       
         </div>
       </div>
     </div>

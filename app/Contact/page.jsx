@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ContactCard from "@/components/ContactCard";
+import ContactCard from '@/Components/ContactCard'
 
 <ContactCard />
 
